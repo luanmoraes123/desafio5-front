@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://projeto-api-biblioteca.vercel.app/"
+const BASE_URL = "https://projeto-api-biblioteca.vercel.app"
 
 export class LivrosService {
     static getLivros() {
